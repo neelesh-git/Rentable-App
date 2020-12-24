@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077433539392",
+    "firebase_url": "https://rentableauthentication.firebaseio.com",
+    "project_id": "rentableauthentication",
+    "storage_bucket": "rentableauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077433539392:android:e3a5a78ef04b345595f8a5",
+        "android_client_info": {
+          "package_name": "com.example.rentableauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077433539392-kh099ndk04i8bbmsdp89t7e8ep90di54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentableauthentication",
+            "certificate_hash": "0e780ab0491c7f64343f3cb4882162fa46ea887a"
+          }
+        },
+        {
+          "client_id": "1077433539392-8fq8h18rjr68mle848bn2sbkr7rjovi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mWlkznjdl9Vh8n1QIN9QnGEnC7wyOww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077433539392-8fq8h18rjr68mle848bn2sbkr7rjovi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
